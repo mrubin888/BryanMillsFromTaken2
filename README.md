@@ -1,6 +1,16 @@
 # BryanMillsFromTaken2
 A fun exploratory twilio exercise where we're going to test its bounds.
 
+## Objective
+The intention of this project is to create a library with high level python twilio wrappers for simpler flask integration. These wrappers will be used to run complex call sequences.
+
+Some functionalities we intend to wrap:
+* Listen for a call and connect on call received
+* Record a connected call and save off the audio
+* Record a call between two external numbers
+* Place a call and play back recorded audio on connect
+* Log states and errors in a web client for debugging
+
 ## Getting Started
 Please note these instructions are written for *nix systems. If you are running Windows, you should still get full compatability but some of these commands may vary slightly.
 
