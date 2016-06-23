@@ -37,3 +37,8 @@ To check to see that your local server is running correctly, open your browser a
   * `git push heroku master`
 
 To check to see that your Heroku server is running correctly, open your browser and go to the url listed in the success log after the push.
+
+### Connect to a Twilio number
+1. Create an account at Twilio.com.
+* From the website, either accept your free phone number or purchase one if necessary.
+* Set your phone numnber's voice url to your Heroku url.
