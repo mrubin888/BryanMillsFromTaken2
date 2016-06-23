@@ -41,4 +41,4 @@ To check to see that your Heroku server is running correctly, open your browser 
 ### Connect to a Twilio number
 1. Create an account at Twilio.com.
 * From the website, either accept your free phone number or purchase one if necessary.
-* Set your phone numnber's voice url to your Heroku url.
+* Set your phone numnber's voice url to "<your heroku url>/voice".
